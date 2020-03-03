@@ -78,6 +78,7 @@ a {
 .nav-list a:hover {
   transform: scale(1.1, 1.1) rotate(5deg);
   text-shadow: 0 3px 0 rgba(10, 10, 10, 0.5);
+  color: #fff586;
 }
 
 .welcome-section {
@@ -174,6 +175,7 @@ img {
 
 .more-projects:hover {
   text-shadow: 0 3px 0 rgba(10, 10, 10, 0.5);
+  color: #fff586;
 }
 
 .contact-section {
@@ -218,6 +220,7 @@ img {
 .contact-details:hover {
   transform: scale(1.1, 1.1) rotate(-5deg);
   text-shadow: 0 3px 0 rgba(10, 10, 10, 0.5);
+  color: #fff586;
 }
 
 footer {
